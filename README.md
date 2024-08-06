@@ -27,7 +27,6 @@ cross‐validation score.
 ![Confusion Matrix](Confusion_Matrix.png) 
 
 #### Classification Report 
-## Classification Report
 
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
