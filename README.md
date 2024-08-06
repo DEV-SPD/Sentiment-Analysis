@@ -22,4 +22,7 @@ product review dataset, achieving 97.35% accuracy on training
 data and 97.01% accuracy on test data, with a 96.40% mean
 cross‐validation score. 
 
+#### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
 
