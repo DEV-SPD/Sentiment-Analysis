@@ -1,7 +1,7 @@
 # PRODUCT REVIEW SENTIMENT ANALYSIS
 The Product Review Sentiment Analysis project aims to evaluate and categorize customer sentiments from product reviews on e-commerce platforms like Amazon. Utilizing a dataset of 4000 customer reviews, the project employs natural language processing (NLP) techniques and machine learning algorithms to classify the sentiment of each review as positive, negative, or neutral. Achieving an impressive 97.01% accuracy on test data, the model effectively balances bias and variance, ensuring reliable sentiment analysis. This tool is instrumental for businesses to understand customer feedback, improve products, and enhance customer satisfaction.
 
-### Model Performance Results
+# Model Performance Results
 
 | Model | Train Accuracy | Test Accuracy | Cross-Validation Score |
 |-------|----------------|---------------|------------------------|
