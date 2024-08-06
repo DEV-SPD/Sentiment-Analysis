@@ -24,5 +24,5 @@ cross‐validation score.
 
 #### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
