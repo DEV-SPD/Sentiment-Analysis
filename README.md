@@ -16,3 +16,10 @@ The Product Review Sentiment Analysis project aims to evaluate and categorize cu
 
 These results demonstrate the performance of various models on the sentiment analysis dataset. The Support Vector Classifier (SVC) performed the best overall with high accuracy on both training and testing data, and a strong cross-validation score.
 
+# RESULTS
+Developed a sentiment analysis model utilizing an Amazon
+product review dataset, achieving 97.35% accuracy on training
+data and 97.01% accuracy on test data, with a 96.40% mean
+cross‐validation score. 
+
+
