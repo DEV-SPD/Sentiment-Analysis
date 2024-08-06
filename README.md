@@ -24,5 +24,16 @@ cross‐validation score.
 
 #### Confusion Matrix
 
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](Confusion_Matrix.png) 
+
+#### Classification Report 
+## Classification Report
+
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     | 0.95      | 1.00   | 0.97     | 756     |
+| 1     | 1.00      | 0.94   | 0.97     | 720     |
+| **Accuracy** |       |        | 0.97     | 1476    |
+| **Macro Avg** | 0.97      | 0.97   | 0.97     | 1476    |
+| **Weighted Avg** | 0.97      | 0.97   | 0.97     | 1476    |
 
